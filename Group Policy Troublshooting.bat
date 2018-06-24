@@ -1,0 +1,2 @@
+rsop.msc
+gpresult

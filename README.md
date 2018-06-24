@@ -3,6 +3,6 @@ Scripts for IT Professionals
 
 Feel free to use, change, or share any scripts in this repository.
 
-By using and sharing these scripts you assume responsibility for any outcomes that may come from making use of them.
+By using and/or sharing the repository contents you assume responsibility for any outcomes that may come from making use of them, for yourself and anyone whom you may share the scripts with.
 
-Under no circumstances may you return blame back at the creator of this repository for any negative outcomes of using the contained scripts.
+By assuming responsibility you waive any and all legal actions against the creator of the repository.

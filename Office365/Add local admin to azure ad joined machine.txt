@@ -1,0 +1,6 @@
+1. Login to the PC as the Azure AD user you want to be a local admin. This gets the GUID onto the PC.
+
+2. Log out as that user and login as a local admin user.
+
+3. Open a command prompt as Administrator and using the command line, add the user to the administrators group. As an example, if I had a user called John Doe, the command would be "net localgroup administrators AzureAD\JohnDoe /add" without the quotes.
+

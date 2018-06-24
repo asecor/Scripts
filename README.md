@@ -1,7 +1,7 @@
 # Scripts
 Scripts for IT Professionals
 
-This repository Contains scripts and script building notes. The Scripts containted in the repository were written for my personal use and may not all be complete.
+This repository Contains scripts and script building notes. The Scripts contained in the repository were written for my personal use and may not all be complete.
 
 Feel free to use, change, or share any files in this repository.
 

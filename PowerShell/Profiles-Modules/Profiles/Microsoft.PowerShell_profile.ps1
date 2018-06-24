@@ -3,7 +3,7 @@
 Write-Host "Admin Toolbox By Taylor Lee"                                                             -Foregroundcolor Green -Backgroundcolor black
 Write-Host "Modified 06232018"                                                                       -Foregroundcolor Green -Backgroundcolor black
 Write-Host "Use Get-Info to see a list of Commands"                                                  -Foregroundcolor Yellow -Backgroundcolor black
-Write-Host "Use Get-Common to see a list of existing commonly used funcitons"                        -Foregroundcolor Yellow -Backgroundcolor black
+Write-Host "Use Get-Common to see a list of existing commonly used functions"                        -Foregroundcolor Yellow -Backgroundcolor black
 Write-Host "Use added functions at your own risk"                                                    -Foregroundcolor Red -Backgroundcolor black
 
 #-------------------------------------------------------------------------------------------------------------------------------------------------------

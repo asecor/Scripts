@@ -1,0 +1,1 @@
+forfiles /p "e:\spam" /d -30 /C "cmd /c del @path"

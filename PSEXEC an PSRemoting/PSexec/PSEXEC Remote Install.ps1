@@ -1,0 +1,1 @@
+psexec \\computer –u domain\admin –p Password1 cmd /c \\domain.local\netlogon\biosupdate.bat 

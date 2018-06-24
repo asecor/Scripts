@@ -1,0 +1,1 @@
+resolve-dnsname server.domain.com -server 8.8.8.8

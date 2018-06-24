@@ -1,0 +1,7 @@
+Printer has to be shared
+
+Turn on network Discovery; turn on File and Printer Sharing
+Firewalls are off for Domain, Private, and Public on both PC
+Windows features: Print and Documents Services = Internet Printing Client
+
+

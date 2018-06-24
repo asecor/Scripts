@@ -1,0 +1,1 @@
+Add-MailboxPermission -Identity mailboxalias -User mailboxalias -AccessRight FullAccess -InheritanceType All -Automapping $false

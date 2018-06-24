@@ -1,0 +1,1 @@
+netdom query /d:devgroup.example.com FSMO

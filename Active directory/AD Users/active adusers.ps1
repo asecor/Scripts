@@ -1,0 +1,1 @@
+Get-ADUser -Filter 'enabled -eq $true' -properties * | select-object EmailAddress,givenname,surname

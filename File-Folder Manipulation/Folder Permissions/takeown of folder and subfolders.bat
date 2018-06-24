@@ -1,0 +1,1 @@
+takeown /u domain\username /r /d Y /f "C:\folder"

@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy bypass -File  "C:\folder\DeleteStalePrintJobs.ps1"

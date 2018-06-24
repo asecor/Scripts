@@ -1,0 +1,1 @@
+get-aduser -Filter * -SearchBase "DC=domain,DC=local" | set-aduser -ChangePasswordAtLogon $True

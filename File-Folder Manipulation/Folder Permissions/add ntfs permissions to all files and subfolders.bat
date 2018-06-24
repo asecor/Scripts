@@ -1,0 +1,1 @@
+icacls c:\folder /grant domain\username:(OI)(CI)(M) /T /C /Q

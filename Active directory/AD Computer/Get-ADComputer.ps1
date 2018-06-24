@@ -1,0 +1,1 @@
+Get-ADComputer -Filter {(Enabled -eq $true)} -properties * | select-object name,enabled,lockedout,LastLogonDate,OperatingSystem | Export-CSV c:\AllWindows.csv

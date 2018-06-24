@@ -1,0 +1,1 @@
+Get-ADUser -Filter {(Enabled -eq $true)} -properties * | select-object SamAccountName,Displayname,Enabled,DistinguishedName,EmailAddress,Created,Modified,LastLogonDate | Export-CSV c:\Allusers.csv

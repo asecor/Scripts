@@ -1,0 +1,1 @@
+Get-ADComputer -Filter {(Enabled -eq $true)} -properties * | select-object name,OperatingSystem,whenCreated,LastLogonDate | Export-CSV c:\AllWindows.csv
